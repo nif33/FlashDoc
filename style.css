@@ -46,8 +46,9 @@ trix-toolbar,
   top: 1em;
 }
 
-ul {
-  margin-top: 1em;
+ul, ol {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .btn-close {
