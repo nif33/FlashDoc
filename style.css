@@ -62,7 +62,7 @@ ul {
   padding-left: 2em;
 }
 
-.navbar > div {
+.navbar>div {
   background-color: #8be0d3;
   font-family: "Roboto Condensed", sans-serif;
 }
@@ -79,8 +79,8 @@ ul {
 #save-status {
   height: 1em;
   width: 1em;
-  display: none;
-  position: absolute;
+  display: block;
+  position: fixed;
   bottom: 1.5em;
   right: 1.5em;
 }
